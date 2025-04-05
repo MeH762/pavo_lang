@@ -25,10 +25,6 @@ To install Pavo Lang, follow these steps:
     ```sh
     gcc ast.c main.c parser.c lexer.c map.c -o pavo
     ```
-3. Run it:
-   ```sh
-   ./pavo <file>.pavo
-   ```
 
 ## Usage
 
