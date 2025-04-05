@@ -7,9 +7,6 @@ Pavo Lang is a mini language interpreter written in C. This project aims to prov
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
