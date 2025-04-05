@@ -23,8 +23,12 @@ To install Pavo Lang, follow these steps:
 
 2. Compile the source code:
     ```sh
-    make
+    gcc ast.c main.c parser.c lexer.c map.c -o pavo
     ```
+3. Run it:
+   ```sh
+   ./pavo <file>.pavo
+   ```
 
 ## Usage
 
