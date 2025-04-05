@@ -1,0 +1,19 @@
+//comments
+
+let x: num = 12;
+let y := 5;
+
+println (x+y);
+println (x**2)/7; //more complex expressions
+
+let a: bool = true;
+
+println a;
+
+if a {
+    println 1;
+}
+
+for i : 0->10 {
+    println i**2;
+}
