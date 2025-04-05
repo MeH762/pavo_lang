@@ -30,7 +30,7 @@ To run the Pavo Lang interpreter, use the following command:
 ./pavo
 ```
 
-##Features:
+## Features:
 
 Variables:
 
